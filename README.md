@@ -35,3 +35,8 @@ The Mently application aims to bridge this gap by oering a mobile-based plaorm t
 | Database | MySQL     |
 |API       |RESTful API|
 | AI       | TensorFlow |
+
+## Cloud Architectures
+<div align="center">
+  <img src="https://github.com/aliefauzan/Bangkit-Project-PeduliPasal/blob/main/logo.svg" alt="Logo Bangkit" width="280px](https://storage.googleapis.com/jkds12/WhatsApp%20Image%202024-12-03%20at%208.50.42%20PM.jpeg)" />
+</div>
